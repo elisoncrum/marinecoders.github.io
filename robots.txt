@@ -1,1 +1,1 @@
-Sitemap: https://github.com/pages/elisoncrum/marinecoders.github.io/sitemap.xml
+Sitemap: https://wcrum.dev/marinecoders.github.io//pages/elisoncrum/marinecoders.github.io/sitemap.xml
